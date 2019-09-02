@@ -1,0 +1,4 @@
+- [x] created notebook.md
+- [x] created github account
+- [x] created piazza account
+- [x] created bio post
